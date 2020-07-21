@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PruebaMeli</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="features_tittle">Caracteristicas</string>
+    <string name="details_action_text">Ver en mercadolibre</string>
+    <string name="description_title">Descripción</string>
+    <string name="details_description_hint">No hay una descripción diponible para este producto</string>
+    <string name="splash_credits">DESARROLLADO POR:\nING. DIEGO BETANCOURT</string>
+    <string name="query_result_text">%1$d resultados para \"%2$s\"</string>
+</resources>
